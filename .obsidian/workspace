@@ -1,72 +1,133 @@
 {
   "main": {
-    "id": "8e50116a4f69815d",
+    "id": "33454dff78c7f9ff",
     "type": "split",
     "children": [
       {
-        "id": "8070377c5a66cbed",
+        "id": "3a780c329eed1fff",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Big_Data/HBase/HBase.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a1015eb4b8bd8293",
-    "type": "mobile-drawer",
+    "id": "a1e93ad6182c732c",
+    "type": "split",
     "children": [
       {
-        "id": "eff9026d478eb513",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "415d5a21633fefbf",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7258db1783f8896b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d38d121f389c2ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36de58ee62914082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 216
   },
   "right": {
-    "id": "0fcf101a50c3543f",
-    "type": "mobile-drawer",
+    "id": "a8db5b9d2a3d8667",
+    "type": "split",
     "children": [
       {
-        "id": "6120be554ac94b4f",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "b8136da99c96bdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05bce517d8c13e19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Big_Data/HBase/HBase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf80f176ae4a187b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "538fef7addda51bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f4cded60c8b1d0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538081a615fbe896",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 246,
+    "collapsed": true
   },
-  "active": "8070377c5a66cbed",
-  "lastOpenFiles": []
+  "active": "3a780c329eed1fff",
+  "lastOpenFiles": [
+    "Big_Data/HBase/HBase.md",
+    "Big_Data/HBase/HBase逻辑结构.png",
+    "Big_Data/HBase/Pasted image 20210803180715.png",
+    "Pasted image 20210803180715.png",
+    "Big_Data/Hbase/Hbase.md",
+    "Big_Data/Hbase/尚硅谷大数据技术之HBase.pdf",
+    "Big_Data/未命名.md",
+    "Day Planners/Day Planner-20210802.md",
+    "Day Planners/Day Planner-20210803.md",
+    "日常/日记/2021-08-03.md"
+  ]
 }
