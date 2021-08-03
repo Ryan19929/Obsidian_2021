@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "33454dff78c7f9ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a780c329eed1fff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20210802.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1e93ad6182c732c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7258db1783f8896b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d38d121f389c2ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36de58ee62914082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "right": {
+    "id": "a8db5b9d2a3d8667",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8136da99c96bdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05bce517d8c13e19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20210802.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf80f176ae4a187b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "538fef7addda51bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f4cded60c8b1d0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538081a615fbe896",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246
+  },
+  "active": "3a780c329eed1fff",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20210802.md",
+    "Day Planners/Day Planner-20210803.md",
+    "日常/日记/2021-08-03.md",
+    "读书笔记/白夜行.md",
+    "Logstash/test.md",
+    "templates/d.md",
+    "Logstash/白夜行.md",
+    "Logstash/导出Mysql数据.md",
+    "Logstash/学位授予仪式 计算机 俞晨凯20330531-03527.jpg",
+    "templates/读书笔记模板.md"
+  ]
+}
