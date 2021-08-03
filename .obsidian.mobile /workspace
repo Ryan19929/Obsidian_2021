@@ -1,25 +1,28 @@
 {
   "main": {
-    "id": "8e50116a4f69815d",
+    "id": "02c8f8f5ec92ea9f",
     "type": "split",
     "children": [
       {
-        "id": "8070377c5a66cbed",
+        "id": "de1eda627a17bea5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "读书笔记/白夜行.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a1015eb4b8bd8293",
+    "id": "4f4dfe2bb9bf9d3f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "eff9026d478eb513",
+        "id": "8e2d24f997f0dc5d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -27,7 +30,7 @@
         }
       },
       {
-        "id": "415d5a21633fefbf",
+        "id": "0554cd7a2981b194",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -45,15 +48,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "0fcf101a50c3543f",
+    "id": "f2e5c4e8dea4deb1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6120be554ac94b4f",
+        "id": "6471fc48e465b2ae",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "读书笔记/白夜行.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -67,6 +71,10 @@
     ],
     "currentTab": 0
   },
-  "active": "8070377c5a66cbed",
-  "lastOpenFiles": []
+  "active": "de1eda627a17bea5",
+  "lastOpenFiles": [
+    "读书笔记/白夜行.md",
+    "Day Planners/Day Planner-20210802.md",
+    "日常/日记/2021-08-03.md"
+  ]
 }
