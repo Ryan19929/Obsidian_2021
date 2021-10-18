@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "583c260f57683468",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a433eccb4b91e09",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f09b798894bd783d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed5e1114311b2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2c70aabade09cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f018618a684fc66c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4fa316f5b4c2f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a2ce211340daf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5791a7cd4abc40",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6a0566ba19d3100",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dddf2f18460ecd1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5a433eccb4b91e09",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20210927.md",
+    "Day Planners/Day Planner-20210925-DESKTOP-J5L1DML.md",
+    "Day Planners/Day Planner-20211017.md",
+    "Day Planners/Day Planner-20210811.md",
+    "Day Planners/Day Planner-20210812.md",
+    "Day Planners/Day Planner-20211018.md",
+    "之江实验室/之江项目看板.md",
+    "Go/Go-Module.md",
+    "Go/template.md",
+    "Go/未命名.md"
+  ]
+}
