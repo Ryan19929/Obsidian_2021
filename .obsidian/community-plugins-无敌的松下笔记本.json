@@ -5,7 +5,6 @@
   "templater-obsidian",
   "obsidian-mind-map",
   "obsidian-icons-plugin",
-  "obsidian-kanban",
-  "obsidian-languagetool-plugin",
-  "obsidian-latex-environments"
+  "obsidian-day-planner",
+  "obsidian-kanban"
 ]

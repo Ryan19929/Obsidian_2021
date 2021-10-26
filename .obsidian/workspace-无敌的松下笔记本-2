@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "583c260f57683468",
+    "id": "5e7bf37c0ea8348e",
     "type": "split",
     "children": [
       {
-        "id": "5a433eccb4b91e09",
+        "id": "373ac1e78c27d2b4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课程/计算理论/NONDETERMINISM FINITE AUTOMATON.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "117462b36f53c05d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课程/计算理论/NONDETERMINISM FINITE AUTOMATON.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/计算理论/NONDETERMINISM FINITE AUTOMATON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,23 +92,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "d1ef5010601a086a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c1d0ba9bad68cf1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5a433eccb4b91e09",
+  "active": "373ac1e78c27d2b4",
   "lastOpenFiles": [
-    "课程/计算理论/NONDETERMINISM FINITE AUTOMATON.md",
-    "课程/计算理论/CONTEXT-FREE LANGUAGES.md",
-    "课程/计算理论/FINITE AUTOMATA.md",
     "之江实验室/之江项目看板.md",
+    "之江实验室/之江自动化/Python-atexit.md",
+    "之江实验室/之江项目.md",
+    "之江实验室/之江自动化/命令运行jar包.md",
+    "之江实验室/之江自动化/自动化具体方案.md",
+    "之江实验室/之江自动化/未命名.md",
+    "之江实验室/之江自动化/Python连接HDFS.md",
+    "之江实验室/未命名看板.md",
     "之江实验室/自动化.md",
-    "课程/计算机网络/OSPF.md",
-    "课程/计算机网络/ICMP.md",
-    "课程/计算机网络/Day1.md",
-    "Day Planners/Day Planner-20210927.md",
-    "Day Planners/Day Planner-20210925-DESKTOP-J5L1DML.md"
+    "之江实验室/未命名.md"
   ]
 }
