@@ -4,6 +4,10 @@
 - ![[Pasted image 20211030125156.png]]
 - 如果不是local minima 可以看 H 判断
 - saddle point: 还可以走
+$$
+Minimun ratio = \frac{Number of Positive Eigen values}{ Number of Eigen values}
+$$
+- 在实际情况中，特征值都是正的critical point 基本上是不存在的，就是无法判断local minima ,所以设定 Minimun ratio > 0.5 说明就是 local minima
 ## Optimization Fails
 - ![[Pasted image 20211030151509.png]]
 - Small batch is better on testing data

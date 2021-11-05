@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "9dd28e1eea2e5444",
+    "id": "583c260f57683468",
     "type": "split",
     "children": [
       {
-        "id": "37a137170cbf0bfc",
+        "id": "118111cb1a770c14",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "李宏毅机器学习/trans问题.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "李宏毅机器学习/trans问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,25 +95,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 284,
     "collapsed": true
   },
-  "active": "37a137170cbf0bfc",
+  "active": "118111cb1a770c14",
   "lastOpenFiles": [
-    "课程/计算机网络/Struct Tcpcb.md",
-    "课程/计算机网络/TCP拥塞控制源码解读.md",
+    "李宏毅机器学习/trans问题.md",
+    "李宏毅机器学习/SoftMax.md",
+    "李宏毅机器学习/Cross Entropy(交叉熵).md",
     "之江实验室/之江项目看板.md",
-    "之江实验室/之江自动化/Python-atexit.md",
-    "之江实验室/之江自动化/Python连接HDFS.md",
     "之江实验室/之江自动化/Python-问题.md",
-    "之江实验室/之江自动化/自动化具体方案.md",
-    "之江实验室/RASA/TED Policy.md",
-    "之江实验室/RASA/Rule.md",
-    "之江实验室/RASA/raining Data Format.md"
+    "之江实验室/RASA/PIPELINE.md",
+    "之江实验室/之江自动化/Python-atexit.md",
+    "李宏毅机器学习/Bath 标准化.md",
+    "李宏毅机器学习/Batch,epcho,update.md",
+    "李宏毅机器学习/Matrix Operation.md"
   ]
 }

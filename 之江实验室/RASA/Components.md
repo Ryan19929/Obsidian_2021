@@ -49,6 +49,8 @@ slots:
 	# of the dialogue policies
 	influence_conversation: false
 ```
+- influence_conversation 如果设置了 true, 只会注意对应的类型的值有没有, 不会关注具体内容。
+>As an example, consider the two inputs "What is the weather like?" and "What is the weather like in Bangalore?" The conversation should diverge based on whether the `home_city` slot was set automatically by the NLU. If the slot is already set, the bot can predict the `action_forecast` action. If the slot is not set, it needs to get the `home_city` information before it is able to predict the weather.
 ## Slot-Type
 1. text
 2. bool

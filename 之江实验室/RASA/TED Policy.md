@@ -1,0 +1,2 @@
+- Using transformer instead of NN
+- 可以回退几步，灵活性更高
