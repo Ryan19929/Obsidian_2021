@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "9dd28e1eea2e5444",
+    "id": "583c260f57683468",
     "type": "split",
     "children": [
       {
-        "id": "37a137170cbf0bfc",
+        "id": "ab18c2af7d200235",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "之江实验室/数据中台/Haddop 代码处理.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "之江实验室/数据中台/Haddop 代码处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +103,17 @@
     "width": 284,
     "collapsed": true
   },
-  "active": "37a137170cbf0bfc",
+  "active": "ab18c2af7d200235",
   "lastOpenFiles": [
-    "课程/计算机网络/Struct Tcpcb.md",
-    "课程/计算机网络/TCP拥塞控制源码解读.md",
-    "之江实验室/之江项目看板.md",
-    "之江实验室/之江自动化/Python-atexit.md",
-    "之江实验室/之江自动化/Python连接HDFS.md",
-    "之江实验室/之江自动化/Python-问题.md",
-    "之江实验室/之江自动化/自动化具体方案.md",
+    "之江实验室/数据中台/Haddop 代码处理.md",
+    "之江实验室/数据中台/Hadoop问题.md",
+    "之江实验室/数据中台/Hadoop 乱码问题.md",
     "之江实验室/RASA/TED Policy.md",
-    "之江实验室/RASA/Rule.md",
-    "之江实验室/RASA/raining Data Format.md"
+    "之江实验室/之江项目看板.md",
+    "Pasted image 20211108144054.png",
+    "之江实验室/专利全文采集计划.md",
+    "之江实验室/自动化.md",
+    "Pasted image 20211108143016.png",
+    "之江实验室/之江自动化/Python-问题.md"
   ]
 }

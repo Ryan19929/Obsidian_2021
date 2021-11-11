@@ -1,0 +1,3 @@
+- 在 job 的配置代码页面，需要给 job 提供输入输出，map.class和reduce.class
+- 最后一个字符是"\t"的时候, split 一定要限定大小，否则最后一个就不会被提取出来
+- str = str.trim()
