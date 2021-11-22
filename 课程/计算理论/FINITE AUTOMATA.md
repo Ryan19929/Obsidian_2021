@@ -1,4 +1,4 @@
-# 
+# FINITE AUTOMATA
 # 结构
 - Formal define of DFA **5-tuple**
 	1. states
